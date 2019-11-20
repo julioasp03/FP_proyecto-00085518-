@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574258062 source:/home/fundamentos/Escritorio/proyecto/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<fstream>
+
